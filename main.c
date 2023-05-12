@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//test
 int numlamp(int n,int k){
     int cnt = 0;
     if(k == 0)return n;
