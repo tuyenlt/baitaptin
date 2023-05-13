@@ -1,1 +1,0 @@
-/usr/bin/gcc -g -rdynamic CMakeFiles/Sample.dir/testlib.c.o CMakeFiles/Sample.dir/main.c.o -o Sample  -lm 
